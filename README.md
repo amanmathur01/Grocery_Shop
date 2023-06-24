@@ -1,2 +1,3 @@
-# Grocery_Shop
-I developed this project using HTML, CSS and JavaScript
+# ByteVerse_ByteWord
+
+Youtube Video Link - https://youtu.be/xut8QeCUMFE
